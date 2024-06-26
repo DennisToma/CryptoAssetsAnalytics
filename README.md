@@ -17,5 +17,8 @@ https://github.com/microsoft/CodeBERT
 
 In the Notebook, data and model checkpoints are made. Thats why the disk requirement is so high.
 
+## Additional Stuff
+
+This is a screenshot of the wandb (Weights and Biases)
 Here you can see the usage of the last run
 ![image](https://github.com/DennisToma/CryptoAssetsAnalytics/assets/92679395/0dbb2e2d-89cb-4a99-b420-372158e3d018)

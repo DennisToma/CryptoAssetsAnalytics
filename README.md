@@ -13,3 +13,6 @@ QLoRA was used for traning: https://github.com/artidoro/qlora
 ## Model
 
 https://github.com/microsoft/CodeBERT
+
+
+In the Notebook, data and model checkpoints are made. Thats why the disk requirement is so high.
